@@ -6,10 +6,10 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
- const pronoun = ['the', 'our'];
- const adj = ['great', 'big','last'];
- const noun = ['jogger', 'racoon', 'of'];
- const ext = ['.com', '.org', '.us'];
+ const pronoun = ['the', 'our'];                  //indent
+  const adj = ['great', 'big','last'];            //indent
+   const noun = ['jogger', 'racoon', 'of'];       //indent
+    const ext = ['.com', '.org', '.us'];          //indent
 
 const resultsDiv = document.querySelector("#results");
 
